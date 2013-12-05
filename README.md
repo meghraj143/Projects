@@ -12,3 +12,5 @@ Projects
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Dawny33/projects/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+<iframe src="http://nodeknockout.com/iframe/struggler" frameborder=0 scrolling=no allowtransparency=true width=115 height=25>
+</iframe>
